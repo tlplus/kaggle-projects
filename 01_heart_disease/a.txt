@@ -1,1 +1,0 @@
-Predict whether people have heart disease or not
