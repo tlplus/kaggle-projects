@@ -1,2 +1,2 @@
 # Kaggle projects
-Analyzing, visualzing and predicting Kaggle's projects
+Analyzing, visualizing and predicting Kaggle's projects
